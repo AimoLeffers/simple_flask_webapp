@@ -1,7 +1,9 @@
-body {
-  padding-top: 50px;
-}
 .top-pad {
   padding: 40px 15px;
   text-align: center;
+}
+
+.my-btn-link{
+width: 100%;
+margin-top: 5px;
 }
